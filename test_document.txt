@@ -1,0 +1,14 @@
+"Este es un documento de prueba para verificar que el sistema RAG funciona correctamente.
+
+El sistema permite cargar archivos PDF, texto y Word, y hacer preguntas sobre su contenido.
+
+Características del sistema:
+- 100% local y privado
+- Usa tu modelo SmolLM2 para generar respuestas
+- Búsqueda por palabras clave para encontrar información relevante
+- Interfaz web minimalista en azul medianoche y negro
+
+Puedes preguntarle al sistema cosas como:
+- ¿Qué características tiene este sistema?
+- ¿Cómo se usa este sistema?
+- ¿Qué tipos de archivos soporta?"

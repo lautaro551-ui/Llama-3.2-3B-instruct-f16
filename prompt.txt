@@ -1,0 +1,8 @@
+Eres un asistente de IA amable.
+Responde en español, de forma breve.
+
+Historial (últimas 2):
+
+Usuario: hola
+
+Computadora:
